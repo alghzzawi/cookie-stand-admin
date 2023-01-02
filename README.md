@@ -1,3 +1,26 @@
+# LAB - Class 32
+
+<br>
+
+## Project: Intro to Next.js & Tailwind CSS
+
+<br>
+
+## Author: Mohammad AlGhzawi
+
+<br>
+
+# Links and Resources
+* 
+
+## How to initialize/run your application (where applicable)
+
+1. npm run dev  
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
