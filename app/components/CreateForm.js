@@ -97,7 +97,7 @@ export default function Form() {
 
 
             {/* result section */}
-            <section className="bg-gray-900 w-full pt-10 text-center shadow-lg shadow-black-50">
+            {/* <section className="bg-gray-900 w-full pt-10 text-center shadow-lg shadow-black-50">
                 {fullReplyState.length > 0 && fullReplyState.map((item,index)=>{
                     return(
                         <div>
@@ -105,7 +105,7 @@ export default function Form() {
                         </div>
                     )
                 })}
-            </section>
+            </section> */}
 
         </>
     )
