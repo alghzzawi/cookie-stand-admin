@@ -1,8 +1,8 @@
-# LAB - Class 32
+# LAB - Class 34
 
 <br>
 
-## Project: Intro to Next.js & Tailwind CSS
+## Project: Intro to Next.js & Tailwind CSS - Cookie Stand Admin Version 2 - Context API
 
 <br>
 
@@ -11,7 +11,10 @@
 <br>
 
 # Links and Resources
-* 
+* Class 32: Project: Intro to Next.js & Tailwind CSS - [PR 1](https://github.com/alghzzawi/cookie-stand-admin/pull/1)
+
+* Class 33: Project: Cookie Stand Admin Version 2  [PR 2](https://github.com/alghzzawi/cookie-stand-admin/pull/3)
+
 
 ## How to initialize/run your application (where applicable)
 

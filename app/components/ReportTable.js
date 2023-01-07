@@ -1,5 +1,5 @@
 import React from 'react'
-import useHourTotals from './custom_hooks/useHourTotals'
+import useHourTotals from '../custom_hooks/useHourTotals'
 import { data } from './data/data'
 
 
@@ -10,7 +10,7 @@ export default function ReportTable() {
     return (
         <div>
             {data[0] ? (
-                <table class="table-auto bg-gray-500 w-full text-center">
+                <table class="table-auto bg-gray-500 w-full text-center dark:bg-black">
                     <thead>
                         <tr>
                             <th>location</th>
