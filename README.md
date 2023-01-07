@@ -2,7 +2,7 @@
 
 <br>
 
-## Project: Intro to Next.js & Tailwind CSS - Cookie Stand Admin Version 2 - Context API
+## Project: Context API
 
 <br>
 
@@ -14,6 +14,8 @@
 * Class 32: Project: Intro to Next.js & Tailwind CSS - [PR 1](https://github.com/alghzzawi/cookie-stand-admin/pull/1)
 
 * Class 33: Project: Cookie Stand Admin Version 2  [PR 2](https://github.com/alghzzawi/cookie-stand-admin/pull/3)
+
+* Class 34: Project: Context API [PR 3](https://github.com/alghzzawi/cookie-stand-admin/pull/4)
 
 
 ## How to initialize/run your application (where applicable)
