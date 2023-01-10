@@ -10,7 +10,7 @@ export default function ReportTable() {
     return (
         <div>
             {data[0] ? (
-                <table class="table-auto bg-gray-500 w-full text-center dark:bg-black">
+                <table class="table-auto bg-gray-500 w-full text-center">
                     <thead>
                         <tr>
                             <th>location</th>

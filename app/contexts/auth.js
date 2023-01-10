@@ -14,7 +14,7 @@ export function AuthWapper({children}) {
 
     async function login(userInfo) {
         // end a request to the server 
-        const url = "https:"; // the server url
+        const url = "https://cookie-stands-v1.herokuapp.com/api/token/"; // the server url
         const res = await axios.post(url, userInfo);
         // console.log(res.data)
         setGlobalState({
